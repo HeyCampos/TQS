@@ -27,7 +27,7 @@ public class Informacoes {
 			System.exit(0);
 			break;
 		default:
-			System.out.println("Essa não é uma Opção Válida! Tchau");
+			System.out.println("Essa não é uma Opção Válida!");
 			Opcoes.main(null);
 			break;
 		}
