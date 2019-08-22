@@ -28,6 +28,7 @@ public class Informacoes {
 			break;
 		default:
 			System.out.println("Essa não é uma Opção Válida! Tchau");
+			Opcoes.main(null);
 			break;
 		}
 

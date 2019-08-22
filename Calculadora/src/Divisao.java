@@ -33,6 +33,7 @@ public class Divisao {
 			System.exit(0);
 		default:
 			System.out.println("Essa não é uma Opção Válida! Tchau");
+			Opcoes.main(null);
 			break;
 		}
 	}
