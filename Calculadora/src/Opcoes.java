@@ -57,6 +57,8 @@ public class Opcoes {
 		case 0:
 			System.out.println("Você Saiu");
 			System.exit(0);
+		default:
+			System.out.println("Essa não é uma Opção Válida! Tchau");
 			break;
 		}
 	}

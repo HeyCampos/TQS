@@ -30,6 +30,8 @@ public class Raiz {
 		case 0:
 			System.out.println("Tchau!!");
 			System.exit(0);
+		default:
+			System.out.println("Essa não é uma Opção Válida! Tchau");
 			break;
 		}
 
