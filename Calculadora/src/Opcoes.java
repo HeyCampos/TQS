@@ -1,8 +1,8 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Opcoes {
 
-	public static void main(String[] args) {
+	public static  void main(String[] Args) {
 		// TODO Auto-generated method stub
 
 		Scanner s = new Scanner(System.in);
@@ -24,7 +24,7 @@ public class Opcoes {
 		switch (input) {
 		case 1:
 			Soma sum = new Soma();
-			sum.Calcula();
+			sum.Calcula(input, input);
 			break;
 		case 2:
 			Subtracao sub = new Subtracao();
@@ -62,6 +62,8 @@ public class Opcoes {
 			Opcoes.main(null);
 			break;
 		}
+		
 	}
 
 }
+*/
